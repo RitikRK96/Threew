@@ -1,5 +1,12 @@
 # 🏆 Leaderboard Task - TripleW Solutions
 
+## 🔗 Live Links
+
+- 🌐 **Frontend (Live UI):** [https://threew.lancway.com](https://threew.lancway.com)  
+- ⚙️ **Backend API:** [https://threew-1xhn.onrender.com/api/users](https://threew-1xhn.onrender.com/api/users)
+
+---
+
 ## 📌 Project Overview
 This project implements a **Leaderboard System** where users can:
 - Select from a list of users (initial 10 seeded users, with option to add more).
@@ -41,7 +48,7 @@ The backend is built with **Node.js + Express + MongoDB**, and the frontend is b
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-repo/leaderboard-task.git
+git clone https://github.com/RitikRK96/threew.git
 cd leaderboard-task
 ```
 
